@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 010cddc6e357f604493e66ed96050990
+timeCreated: 1426883493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Attack_0
+    21300002: Attack_1
+    21300004: Attack_2
+    21300006: Attack_3
+    21300008: Attack_4
+    21300010: Attack_5
+    21300012: Attack_6
+    21300014: Attack_7
+    21300016: Attack_8
+    21300018: Attack_9
+    21300020: Attack_10
+    21300022: Attack_11
+    21300024: Attack_12
+    21300026: Attack_13
+    21300028: Attack_14
+    21300030: Attack_15
+    21300032: Attack_16
+    21300034: Attack_17
+    21300036: Attack_18
+    21300038: Attack_19
+    21300040: Attack_20
+    21300042: Attack_21
+    21300044: Attack_22
+    21300046: Attack_23
+    21300048: Attack_24
+    21300050: Attack_25
+    21300052: Attack_26
+    21300054: Attack_27
+    21300056: Attack_28
+    21300058: Attack_29
+    21300060: Attack_30
+    21300062: Attack_31
+    21300064: Attack_32
+    21300066: Attack_33
+    21300068: Attack_34
+    21300070: Attack_35
+    21300072: Attack_36
+    21300074: Attack_37
+    21300076: Attack_38
+    21300078: Attack_39
+    21300080: Attack_40
+    21300082: Attack_41
+    21300084: Attack_42
+    21300086: Attack_43
+    21300088: Attack_44
+    21300090: Attack_45
+    21300092: Attack_46
+    21300094: Attack_47
+    21300096: Attack_48
+    21300098: Attack_49
+    21300100: Attack_50
+    21300102: Attack_51
+    21300104: Attack_52
+    21300106: Attack_53
+    21300108: Attack_54
+    21300110: Attack_55
+    21300112: Attack_56
+    21300114: Attack_57
+    21300116: Attack_58
+    21300118: Attack_59
+    21300120: Attack_60
+    21300122: Attack_61
+    21300124: Attack_62
+    21300126: Attack_63
+    21300128: Attack_64
+    21300130: Attack_65
+    21300132: Attack_66
+    21300134: Attack_67
+    21300136: Attack_68
+    21300138: Attack_69
+    21300140: Attack_70
+    21300142: Attack_71
+    21300144: Attack_72
+    21300146: Attack_73
+    21300148: Attack_74
+    21300150: Attack_75
+    21300152: Attack_76
+    21300154: Attack_77
+    21300156: Attack_78
+    21300158: Attack_79
+    21300160: Attack_80
+    21300162: Attack_81
+    21300164: Attack_82
+    21300166: Attack_83
+    21300168: Attack_84
+    21300170: Attack_85
+    21300172: Attack_86
+    21300174: Attack_87
+    21300176: Attack_88
+    21300178: Attack_89
+    21300180: Attack_90
+    21300182: Attack_91
+    21300184: Attack_92
+    21300186: Attack_93
+    21300188: Attack_94
+    21300190: Attack_95
+    21300192: Attack_96
+    21300194: Attack_97
+    21300196: Attack_98
+    21300198: Attack_99
+    21300200: Attack_100
+    21300202: Attack_101
+    21300204: Attack_102
+    21300206: Attack_103
+    21300208: Attack_104
+    21300210: Attack_105
+    21300212: Attack_106
+    21300214: Attack_107
+    21300216: Attack_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attack_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 710
+        width: 84
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 702
+        width: 121
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 700
+        width: 127
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 703
+        width: 173
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 710
+        width: 171
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 705
+        width: 156
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 376
+        width: 131
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 380
+        width: 103
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 386
+        width: 85
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 700
+        width: 148
+        height: 251
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
